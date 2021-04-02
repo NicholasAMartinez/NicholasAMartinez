@@ -1,10 +1,14 @@
 
 name = 'Nicholas'
+
 programing_language = 'Python'
+
 experience_level = 'noob'
 
 print('Hello! My name is ' + name + '.')
+
 print('I am currently learning how to program in ' + programing_language + '.')
+
 print('I am a ' + experience_level + ' at programming, but I plan on becoming better!')
 
 Or in conclusion. 
